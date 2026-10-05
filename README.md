@@ -304,7 +304,7 @@ current_focus:
 [![Gmail](https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali22ashar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-ashar-shafique/)
 [![GitHub](https://img.shields.io/badge/GitHub-2E0854?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ALI22ASHAR)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ALI22ASHAR/My_Portfolio-Term-Project-)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://aliashar.netlify.app/)
 
 </div>
 
